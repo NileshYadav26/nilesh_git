@@ -1,0 +1,3 @@
+class dollop {
+    String name;
+}
